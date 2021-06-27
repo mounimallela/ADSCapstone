@@ -94,7 +94,3 @@ Purpose of this project was to analyze the neighborhoods of Chennai and create a
 A few examples for the applications that the clusters can be used for have also been discussed. A map showing the clusters have been provided. Both these can be used by stakeholders to decide the location for the particular type of business. A major drawback of this project was that the Foursquare API returned only few venues in each neighborhood. As a future improvement, better data sources can be used to obtain more venues in each neighborhood. This way the neighborhoods that were filtered out can be included in the clustering analysis to create a better decision model.
 
 ## Thank you!
-
-I hope you found the project useful and interesting. This project was deveoped for the **Applied Data Science Capstone** as part of the **IBM Data Science Professional Certificate** provided through Coursera. Feel free to fork or download this project for your requirements.
-
--- [Rohith S P](https://www.linkedin.com/in/rohithsp/)
